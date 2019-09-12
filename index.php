@@ -5,7 +5,7 @@ Git Remote
 
 <p>Lorem ipsum</p>
 <ul>
-<li>satu</li>
-<li>dua</li>
+    <li>satu</li>
+    <li>dua</li>
 </ul>
 </html>
